@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
-  
+  <title>Yangy学习记录</title>
+  <icon>https://www.gravatar.com/avatar/35e3ef6b8ab6c525945ed9087abede48</icon>
   
   <link href="http://18837176143.github.io/atom.xml" rel="self"/>
   
@@ -11,7 +11,7 @@
   
   <author>
     <name>yangy</name>
-    
+    <email>429306107@qq.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
